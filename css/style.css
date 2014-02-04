@@ -216,7 +216,6 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/bg1.jpg');
 	color: #ffffff;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -383,7 +382,7 @@ body {
 #slide-3 {
 	background-color: #000;
 	margin: 0 auto;
-	overflow: hidden;
+	overflow: visible;
 	padding: 0;
 	text-align: left;
 	width: 100%;
